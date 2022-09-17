@@ -12,5 +12,5 @@ Projeto construído no evento Next Level Rocketseat.
 - CSS
 - Git e Github
 
-## ❤️ Contato
+## ✉️ Contato
 valeska.santos86@gmail.com
