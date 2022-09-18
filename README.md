@@ -7,7 +7,7 @@ Projeto construído no evento Next Level Rocketseat.
 [🔗Clique aqui para acessar](https://valeskamoraes86.github.io/NLW-ESPORTS-EXPLORER)
 
 
-## 🛠️ Tecnologias 
+## 👩‍💻 Tecnologias 
 - HTML
 - CSS
 - Git e Github
